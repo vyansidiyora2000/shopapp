@@ -1,0 +1,25 @@
+.flex {
+    display: flex;
+    flex-wrap: wrap;
+    background:lightgrey;
+  }
+  
+  .shopping-card {
+    justify-content: space-between;
+    background-color: gray;
+    padding: 20px 30px;
+  }
+  
+  .product-item {
+    padding: 30px;
+  }
+  .nav{
+    font-family: "Times New Roman", Times, serif;
+  }
+  .vya{
+    margin: 50px;
+  }
+
+  .za{
+    margin: 50px;
+  }
